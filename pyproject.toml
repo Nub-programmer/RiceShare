@@ -2,7 +2,7 @@
 name = "riceshare"
 version = "0.1.0"
 authors = [
-    { name="Nub-programmer", email="nub@example.com" }
+    { name="Nub-programmer", email="atharvnegi26@gmail.com" }
 ]
 description = "CLI tool for discovering and installing Linux rice profiles"
 requires-python = ">=3.11"
